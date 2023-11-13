@@ -1,0 +1,9 @@
+{
+    "frame_rate": 24,
+    "resolution": "720p",
+    "audio": true,
+    "enhancements": {
+        "brightness": 1.0,
+        "contrast": 1.0
+    }
+}
