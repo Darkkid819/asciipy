@@ -18,7 +18,7 @@ setup(
     },
     # Metadata
     author='Jordan Mitacek',
-    author_email='jordan.mitacek@example.com',
+    author_email='jordan.mitacek@gmail.com',
     description='Play videos as ASCII animations in the terminal.',
     long_description=open('README.rst').read() if os.path.exists('README.rst') else '',
     url='https://github.com/Darkkid819/asciipy',
